@@ -13,5 +13,8 @@ For running this script you will need to create a new `.env` file at the same fo
 TG_API_TOKEN="XXXXXXX:YYYYYYYYYYYYY"
 CHAT_ID="ZZZZZZ"
 ```
+## Extra
 
 A makefile is included for service installation and python environment setup
+
+URLs for each model and distributor are provided at `sources.json`
