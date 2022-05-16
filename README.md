@@ -1,7 +1,8 @@
 # piscrape: a telegram bot for notifying Raspberry Pi 4 stock on official Spanish distributors
 
-![](header.png)
-
+<p align="center">
+<img src="header.png">
+</p>
 This python script is designed to be ran each time updates are wanted
 (it doesn't stay running forever). The execution of the script is managed by a systemd unit and timer.
 
