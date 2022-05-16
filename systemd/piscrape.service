@@ -1,0 +1,7 @@
+[Unit]
+Description=RPI4 Stock telegram bot
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/scripts/piscrape
+ExecStart=/opt/scripts/piscrape/venv/bin/python3 /opt/scripts/piscrape/main.py

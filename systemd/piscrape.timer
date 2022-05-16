@@ -1,0 +1,15 @@
+[Unit]
+Description=Run rpibot stock spain
+Requires=piscrape.service
+
+[Timer]
+#OnCalendar=*-*-* 06:00:00
+#OnCalendar=*-*-* 14:00:00
+#OnCalendar=*-*-* 21:00:00
+OnCalendar=*:0/30
+#OnCalendar=00/1:00
+#Persistent=true
+RandomizedDelaySec=5m
+
+[Install]
+WantedBy=timers.target

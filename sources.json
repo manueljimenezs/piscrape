@@ -1,0 +1,18 @@
+{
+    "Raspberry Pi 4 Model B/1GB": {
+        "kubii": "https://www.kubii.es/raspberry-pi-3-2-b/2770-raspberry-pi-4-modelo-b-1-gb-0765756931168.html",
+        "tiendatec": "https://www.tiendatec.es/raspberry-pi/gama-raspberry-pi/1098-raspberry-pi-4-modelo-b-1gb-765756931168.html"
+    },
+    "Raspberry Pi 4 Model B/2GB": {
+        "kubii": "https://www.kubii.es/raspberry-pi-3-2-b/2771-nuevo-raspberry-pi-4-modelo-b-2gb-0765756931175.html",
+        "tiendatec": "https://www.tiendatec.es/raspberry-pi/gama-raspberry-pi/1099-raspberry-pi-4-modelo-b-2gb-765756931175.html"
+    },
+    "Raspberry Pi 4 Model B/4GB": {
+        "kubii": "https://www.kubii.es/raspberry-pi-3-2-b/2772-nuevo-raspberry-pi-4-modelo-b-4gb-0765756931182.html",
+        "tiendatec": "https://www.tiendatec.es/raspberry-pi/gama-raspberry-pi/1100-raspberry-pi-4-modelo-b-4gb-765756931182.html"
+    },
+    "Raspberry Pi 4 Model B/8GB": {
+        "kubii": "https://www.kubii.es/raspberry-pi-3-2-b/2955-raspberry-pi-4-modelo-b-8gb-0765756931199.html",
+        "tiendatec": "https://www.tiendatec.es/raspberry-pi/gama-raspberry-pi/1231-raspberry-pi-4-modelo-b-8gb-765756931199.html"
+    }
+}
